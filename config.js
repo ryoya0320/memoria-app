@@ -1,4 +1,4 @@
 window.MEMORIA_CONFIG={
-  supabaseUrl:"PASTE_YOUR_SUPABASE_URL",
-  supabaseAnonKey:"PASTE_YOUR_SUPABASE_ANON_KEY"
+  supabaseUrl:"https://krflsckouopclnjrkyvk.supabase.co/rest/v1/",
+  supabaseAnonKey:"sb_publishable_EXeJz-QCvKGDSNUByZe48w_-LP2ifxS"
 };
