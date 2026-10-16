@@ -1,0 +1,4 @@
+window.MEMORIA_CONFIG={
+  supabaseUrl:"PASTE_YOUR_SUPABASE_URL",
+  supabaseAnonKey:"PASTE_YOUR_SUPABASE_ANON_KEY"
+};
