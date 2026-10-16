@@ -1,1 +1,0 @@
-window.MEMORIA_CONFIG={supabaseUrl:"https://krflsckouopclnjrkyvk.supabase.co",sb_publishable_EXeJz-QCvKGDSNUByZe48w_-LP2ifxS"};
