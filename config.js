@@ -1,1 +1,1 @@
-window.MEMORIA_CONFIG={supabaseUrl:"https://zkuksjdssratyeuktjyx.supabase.co/rest/v1/",supabaseAnonKey:"sb_publishable_5chaAghkieaNDRxfzx3aQw_7lEVl951"};
+window.MEMORIA_CONFIG={supabaseUrl:"https://zkuksjdssratyeuktjyx.supabase.co",supabaseAnonKey:"sb_publishable_5chaAghkieaNDRxfzx3aQw_7lEVl951"};
