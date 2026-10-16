@@ -1,2 +1,0 @@
-# Memoria v11 完全置き換え版
-カレンダー写真添付を20種類の白・灰色系スタンプへ変更し、背景カラー変更と共有ルームDMを追加しました。DM利用前にSupabase SQL Editorでsupabase.sqlを実行してください。config.jsとicon.pngは現在のものを残してください。
