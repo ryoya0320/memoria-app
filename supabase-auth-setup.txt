@@ -1,0 +1,11 @@
+Memoria v31 Supabase Auth設定
+
+1. Supabase Dashboardを開く
+2. Authentication → Providers → Email を有効にする
+3. Authentication → Providers → Email の「Confirm email」を無効にする
+4. config.js の supabaseUrl と supabaseAnonKey が現在のプロジェクトの値か確認する
+
+重要:
+- アカウント本体はSupabase Authのauth.usersへ保存されます。
+- アプリを削除した後は再ログインが必要ですが、アカウントは消えません。
+- 既存の端末内IDはクラウドへ自動移行されません。同じIDとパスワードで一度「IDを新規作成」してください。
